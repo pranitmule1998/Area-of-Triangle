@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "git.enabled": true,
+    "git.confirmEmptyCommits": true,
+    "git.decorations.enabled": true,
+    "git.enableStatusBarSync": true
+}
